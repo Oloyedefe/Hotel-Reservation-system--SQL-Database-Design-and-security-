@@ -1,5 +1,5 @@
 # Hotel-Reservation-system--SQL-Database-Design-and-security-
-🏨 Hotel Reservation System – SQL Database Design & Security
+
 
 Project: FLOW HOTEL AND SUITES
 
